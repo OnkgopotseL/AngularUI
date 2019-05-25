@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\angular-crud",
+    "\\src\\app\\DataService",
+    "\\src\\app\\employee-add",
+    "\\src\\app\\employee-update",
+    "\\src\\environments",
+    "\\src\\Models"
+  ],
+  "SelectedNode": "\\src\\app\\DataService\\EmployeeDataService.ts",
+  "PreviewInSolutionExplorer": false
+}
